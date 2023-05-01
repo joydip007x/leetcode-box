@@ -1,8 +1,7 @@
-<p align='center'>
-  <img width="400" src="assets/sample.png">
-  <h3 align="center">leetcode-box</h3>
-  <p align="center">Update a pinned gist to show your LeetCode stats.</p>
-</p>
+
+
+[![Update LeetCode gist](https://github.com/joydip007x/leetcode-box/actions/workflows/schedule.yml/badge.svg)](https://github.com/joydip007x/leetcode-box/actions/workflows/schedule.yml)
+
 
 ![](https://img.shields.io/github/license/puiiyuen/leetcode-box)
 ![](https://img.shields.io/github/workflow/status/puiiyuen/leetcode-box/Update%20LeetCode%20gist)
