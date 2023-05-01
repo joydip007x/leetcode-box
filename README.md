@@ -1,4 +1,14 @@
 
+<p align='center'>
+  <img width="400" src="assets/sample.png">
+  <h3 align="center">leetcode-box</h3>
+  <p align="center">Update a pinned gist to show your LeetCode stats.</p>
+</p>
+
+![](https://img.shields.io/github/license/joydip007x/leetcode-box)
+![](https://img.shields.io/github/workflow/status/joydip007x/leetcode-box/Update%20LeetCode%20gist)
+
+
 
 [![Update LeetCode gist](https://github.com/joydip007x/leetcode-box/actions/workflows/schedule.yml/badge.svg)](https://github.com/joydip007x/leetcode-box/actions/workflows/schedule.yml)
 
