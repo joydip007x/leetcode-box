@@ -2,6 +2,8 @@
 
 [![Update LeetCode gist](https://github.com/joydip007x/leetcode-box/actions/workflows/schedule.yml/badge.svg)](https://github.com/joydip007x/leetcode-box/actions/workflows/schedule.yml)
 
+[![Update LeetCode gist](https://github.com/joydip007x/leetcode-box/actions/workflows/schedule.yml/badge.svg)](https://github.com/joydip007x/leetcode-box/actions/workflows/schedule.yml)
+
 [![Update LeetCode gist](https://github.com/joydip007x/leetcode-box/actions/workflows/schedule.yml/badge.svg?event=create)](https://github.com/joydip007x/leetcode-box/actions/workflows/schedule.yml)
 
 ![](https://img.shields.io/github/license/puiiyuen/leetcode-box)
